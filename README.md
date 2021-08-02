@@ -30,6 +30,10 @@ merge project ثم file ثانيا سنقوم بالضغط على
 
 رابعا الذراع الثانيه
  ###### 4.Arm 2  
+ ![image](https://user-images.githubusercontent.com/61877121/127898520-03dcb112-c3bd-4938-8efe-ccce7cc4666a.png)
+
+ ###### 5.Gripper
+ واخيرا هذاالشكل النهائي للذراع الالية 
  
  
 
