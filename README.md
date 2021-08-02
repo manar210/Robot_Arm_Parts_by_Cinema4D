@@ -34,6 +34,7 @@ merge project ثم file ثانيا سنقوم بالضغط على
 
  ###### 5.Gripper
  و هذاالشكل النهائي للذراع الالية
+ 
  ![image](https://user-images.githubusercontent.com/61877121/127898857-98dac24c-180d-4a4a-99c3-ff3fa2aa88d4.png)
  
   stl واخيرا سوف نقوم بحفظ الملف بامتداد
