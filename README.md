@@ -17,7 +17,15 @@
 ###### 1.base
 ![image](https://user-images.githubusercontent.com/61877121/127896471-3519209c-1225-4cda-8a1e-9e3535f9cece.png)
 
-merge project ثم file ثم سنقوم بالضغط على  
+merge project ثم file ثانيا سنقوم بالضغط على 
+
  وتحميل ثاني قطعة سيتم تركيبها وهي 
  ###### 2.waist
+ ![image](https://user-images.githubusercontent.com/61877121/127897448-9a2e85ba-2f6a-4263-9b89-13649c150893.png)
+ 
+ 
+  ثالثا نقوم ايضا بدمج القطعة الثالثة وتركيبها وهي الذراع الاولى 
+ ###### 3.Arm 1
+ 
+
  
